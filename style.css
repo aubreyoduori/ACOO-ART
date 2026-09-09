@@ -203,14 +203,14 @@ button:hover {
     margin-bottom: 30px;
 }
 
-#drawing-video video {
+#drawing-video iframe {
     width: 80%;
     max-width: 900px;
     border: 2px solid #C9A66B;
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+    margin: 15px;
 }
-
 /* =========================================
    ABOUT SECTION
    ========================================= */
@@ -260,32 +260,26 @@ button:hover {
    CONTACT SECTION
    ========================================= */
 
-#0790638079 {
+#contact {
     background-color: #24201D;
-
     width: 80%;
     max-width: 800px;
-
     border: 1px solid #C9A66B;
     padding: 30px;
     margin: 60px auto;
-
     text-align: center;
     border-radius: 15px;
-
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 
-#0790638079 h2 {
+#contact h2 {
     color: #C9A66B;
 }
 
-#0790638079 p {
+#contact p {
     font-size: 18px;
     color: #D8D0C6;
 }
-
-
 /* =========================================
    FOOTER
    ========================================= */
